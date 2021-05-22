@@ -1,0 +1,1 @@
+export { PopularDestination } from './popularDestinations'
